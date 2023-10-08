@@ -1,4 +1,7 @@
 # StatisticsBook
+
+
+![bookpicture]([URL](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwWS0x9r-QIXyeSgjZWBKhgherovUqNyGgFyMUJMCNJq04ngMHg5scBdKgNV9TrH4Ciwnascc-MltchHRuv3a1y_CQm4fxB82DxiDF9sSBjOlj_rPPqDxHRmDZn98tXAMW_mZHA1EWIJwrxcNB7oiYvbOaNv63ld8BlKx88o9t-OCwpcFmGalB3FueeNg/s4000/20230727_191836.jpg))
 About the book "The Art of Statistics"
 
 When I was at the university studying Statistics and after that a master in Statistics, one of the most incomprehensible subjects for me it was "simulation". 
