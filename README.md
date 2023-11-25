@@ -5,7 +5,7 @@
 **About the book "The Art of Statistics", by David Spiegelhalter**
 
 When I was at the university studying Statistics (and after that a master in Statistics), one of the most incomprehensible subjects for me it was "simulation". 
-Everyone was so happy and confident about the great usefulness of this tecnique but my mind could not understant how in earth we can be so sure that a random event can be connected with a distribution function. I must say I was not a good student then (at least in pre-grade), so I just ignored these concerns and tried to aprove the courses.
+Everyone was so happy and confident about the great usefulness of this tecnique but my mind could not understand how in earth we can be so sure that a random event can be connected with a distribution function. I must say I was not a good student then (at least in pre-grade), so I just ignored these concerns and tried to aprove the courses.
 
 I suppose there were some people who had the same concern as me, but I never heard about it. 
 Until recently, in July of this year I had the opportunity to buy this amazing book and you can imagine my ilusion when I read this:
